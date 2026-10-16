@@ -1,4 +1,4 @@
-# Hi, I am Andriy 👋
+# Hi, I am Andrii 👋
 
 Three projects from automating a school's Moodle LMS (Python, Selenium, REST APIs).
 Each project is a standalone repository.
